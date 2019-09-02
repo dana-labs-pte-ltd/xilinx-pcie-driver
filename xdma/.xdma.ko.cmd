@@ -1,0 +1,1 @@
+cmd_/home/wanner/Desktop/files/xilinx-pcie-driver/xdma/xdma.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/wanner/Desktop/files/xilinx-pcie-driver/xdma/xdma.ko /home/wanner/Desktop/files/xilinx-pcie-driver/xdma/xdma.o /home/wanner/Desktop/files/xilinx-pcie-driver/xdma/xdma.mod.o ;  true
